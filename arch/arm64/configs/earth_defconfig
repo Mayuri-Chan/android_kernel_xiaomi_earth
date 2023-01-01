@@ -3,7 +3,6 @@ CONFIG_LOCALVERSION="-perf-Mahiru17"
 # CONFIG_LOCALVERSION_AUTO is not set
 #C3T code for HQ-219004 by wangjian at 2022/08/11 end 
 CONFIG_PREEMPT=y
-CONFIG_IKHEADERS=y
 #C3T code for HQ-218937 by hongwei at 2022/08/18 start
 CONFIG_LOG_BUF_SHIFT=21
 #C3T code for HQ-218937 by hongwei at 2022/08/18 end
